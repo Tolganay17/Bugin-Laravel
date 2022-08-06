@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc95f91e-71ee-4824-b702-9b4d63f9a86a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/category.html" afterDir="false" />
+>>>>>>> 81bfedba68cc49f76e05cca8f3d97ab9a6798e8c
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hr0ET9c0C48YIDYtZDIx1ETM3g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/icon" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\img\icon" />
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\img\content" />
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\img" />
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\fonts\Comfortaa" />
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\fonts\Playfair-Display" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Safiolla\PhpstormProjects\bugin.kz\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc95f91e-71ee-4824-b702-9b4d63f9a86a" name="Default Changelist" comment="" />
+      <created>1600753791612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600753791612</updated>
+      <workItem from="1600753792671" duration="15566000" />
+      <workItem from="1600848163516" duration="25084000" />
+      <workItem from="1600922116045" duration="9617000" />
+      <workItem from="1601268021848" duration="10997000" />
+      <workItem from="1601285257269" duration="189000" />
+      <workItem from="1601286127757" duration="3061000" />
+      <workItem from="1601289398215" duration="23643000" />
+      <workItem from="1601441690293" duration="21959000" />
+      <workItem from="1601528339521" duration="20275000" />
+      <workItem from="1601613392347" duration="28163000" />
+      <workItem from="1601916899456" duration="1080000" />
+      <workItem from="1601918275749" duration="33000" />
+      <workItem from="1601918381287" duration="1773000" />
+      <workItem from="1601920192754" duration="1618000" />
+      <workItem from="1601922354061" duration="1752000" />
+      <workItem from="1601924159924" duration="1813000" />
+      <workItem from="1601926024915" duration="1130000" />
+      <workItem from="1601931281020" duration="1787000" />
+      <workItem from="1601933197949" duration="1780000" />
+      <workItem from="1601935006639" duration="220000" />
+      <workItem from="1601969980279" duration="1888000" />
+      <workItem from="1601971905660" duration="1795000" />
+      <workItem from="1601973763248" duration="1759000" />
+      <workItem from="1601975635407" duration="384000" />
+      <workItem from="1602838901929" duration="9188000" />
+      <workItem from="1603081667752" duration="116995000" />
+      <workItem from="1603526531749" duration="1347000" />
+      <workItem from="1603530462815" duration="44000" />
+      <workItem from="1603532981698" duration="199000" />
+      <workItem from="1603687811888" duration="3069000" />
+      <workItem from="1603693383274" duration="15000" />
+      <workItem from="1603706890202" duration="626000" />
+      <workItem from="1603775444294" duration="6528000" />
+      <workItem from="1603862365543" duration="16000" />
+      <workItem from="1604381947580" duration="385000" />
+<<<<<<< HEAD
+      <workItem from="1604394395434" duration="1647000" />
+      <workItem from="1604404097650" duration="340000" />
+      <workItem from="1604405027698" duration="12000" />
+      <workItem from="1604405115418" duration="175000" />
+      <workItem from="1604406279165" duration="398000" />
+      <workItem from="1604408427892" duration="4000" />
+      <workItem from="1604562921075" duration="12000" />
+      <workItem from="1604654900781" duration="43000" />
+      <workItem from="1604673348222" duration="216000" />
+      <workItem from="1604895222940" duration="25578000" />
+      <workItem from="1604924394785" duration="275000" />
+      <workItem from="1604980114596" duration="638000" />
+=======
+>>>>>>> 81bfedba68cc49f76e05cca8f3d97ab9a6798e8c
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1600756740831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1600756740831" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603102917036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603102917036" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603257843582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603257843582" />
+<<<<<<< HEAD
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604405034718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604405034718" />
+=======
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603862378083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603862378083" />
+>>>>>>> 81bfedba68cc49f76e05cca8f3d97ab9a6798e8c
+    <state x="0" y="0" width="587" height="728" key="find.popup" timestamp="1600754527982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="587" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600754527982" />
+<<<<<<< HEAD
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604910467499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-183.1920.1040@0.0.1366.728" timestamp="1604910467499" />
+=======
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603780595128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+>>>>>>> 81bfedba68cc49f76e05cca8f3d97ab9a6798e8c
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603780595128" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/profile.html</url>
+          <line>782</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>2032</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>2054</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/category.html</url>
+          <line>841</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
